@@ -14,3 +14,6 @@ This project is a **dynamic travel guide** that fetches **Wikipedia summaries**,
 1️⃣ **Clone the repository:**
    ```sh
    git clone https://github.com/yourusername/travel-guide.git
+   ```
+## LIVE Website
+https://bhakthi-rai.github.io/
